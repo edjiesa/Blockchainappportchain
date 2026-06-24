@@ -126,6 +126,10 @@ Gunakan kredensial bawaan berikut untuk login:
 - **Email**: `admin@beacukai.co.id`
 - **Password**: `admin123`
 
+**3. Admin BANK**
+- **Email**: `admin@bank.co.id`
+- **Password**: `admin123`
+
 Dari akun *Port Authority*, Anda dapat pergi ke menu **Organizations -> Manage Users** untuk mendaftarkan akun baru bagi organisasi lain. Setiap akun yang didaftarkan akan disimpan di PostgreSQL (Off-chain) dan direkam ke dalam Blockchain (On-chain) sebagai identitas resmi (Certificate Authority).
 
 ### 6. Membuka Akses ke Internet (Ngrok)
